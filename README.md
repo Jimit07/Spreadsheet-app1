@@ -6,10 +6,10 @@ The application mimics the functionality of a traditional spreadsheet with featu
 ## Features
 
 - Grid Rendering: Displays a grid with 1000 rows and 20 columns.
-- **Cell Editing: Each cell can be edited, and changes are stored in memory.
+- Cell Editing: Each cell can be edited, and changes are stored in memory.
 - Undo/Redo**: Provides undo and redo functionality for cell changes.
-- Search Functionality**: Allows searching for specific terms within the grid.
-- Responsive Design**: Styled using Tailwind CSS for a clean and responsive interface.
+- Search Functionality: Allows searching for specific terms within the grid.
+- Responsive Design: Styled using Tailwind CSS for a clean and responsive interface.
 
 ## Technologies Used
 
